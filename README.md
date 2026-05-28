@@ -95,15 +95,6 @@ Interdisciplinary engineer bridging mechanical systems and AI. I turn complex en
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malliksmrity&show_icons=true&theme=default&hide_border=true&cache_seconds=1800" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=malliksmrity&theme=default&hide_border=true" height="160"/>
-</p>
-
----
 
 <p align="center">
   <i>"Engineering thinking + data intelligence = scalable solutions"</i><br><br>
