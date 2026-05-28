@@ -28,14 +28,14 @@ Interdisciplinary engineer bridging mechanical systems and AI. I turn complex en
 - 🏭 Interned at **Thermax Ltd** & **Kirloskar Pneumatic**
 - 📄 Published & presented at **RDME-2025** national conference
 - 🌍 Based in **Berlin, Germany** | Open to Werkstudent & junior roles
-- 💬 English · Hindi · German (B1–B2)
+- 💬 English · Hindi · German (B1)
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔥 Rice Straw Boiler Performance Dashboard
-> ML-powered combustion efficiency prediction — based on RDME-2025 published research
+> ML-powered combustion efficiency prediction — based from Thermax.Ltd
 
 - Trained a **Random Forest** model on boiler simulation data across 60–100% load conditions
 - Built and deployed a **live Streamlit dashboard** with real-time parameter sliders
