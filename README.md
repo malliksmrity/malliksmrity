@@ -54,7 +54,17 @@ Interdisciplinary engineer bridging mechanical systems and AI. I turn complex en
 🔗 **[Repo](https://github.com/malliksmrity/predictive-maintenance-rul)**
 
 ---
+### 🔧 [Digital Twin — Pump Health Monitor]
+(https://digital-twin-pump-simulation.onrender.com)
+Real-time fault detection for centrifugal pumps using physics simulation + ML
+- Physics-based pump curve simulation
+- 3 fault types: bearing wear, cavitation, blockage
+- Random Forest classifier with 99.6% accuracy
+- Live Plotly Dash dashboard
+> `Python` `Random Forest` `Plotly Dash` `PyTorch`
 
+---
+  
 ## 🛠️ Tech Stack
 
 **Languages & Scripting**
