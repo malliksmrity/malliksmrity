@@ -66,6 +66,12 @@ Real-time fault detection for centrifugal pumps using physics simulation + ML
 ---
 ### 🔧 [Weld Defect Detection](https://github.com/malliksmrity/weld-defect-detection)
 YOLOv8 computer vision system for automated weld quality inspection. Detects porosity, cracks, undercut and spatter in real time.
+Automated weld quality inspection using YOLOv8 computer vision. 
+Detects porosity, cracks, undercut, and spatter in weld seam images 
+in real time with confidence scores. Trained on 6,335 weld images. 
+Deployed as a live web app.
+
+Tech: YOLOv8 · PyTorch · Streamlit · ONNX · Python
 🔗 [Live Demo](https://weld-defect-detection-xyeclcnf3j3vmh2vjezujx.streamlit.app/)
 
 ---
