@@ -64,6 +64,11 @@ Real-time fault detection for centrifugal pumps using physics simulation + ML
 > `Python` `Random Forest` `Plotly Dash` `PyTorch`
 
 ---
+### 🔧 [Weld Defect Detection](https://github.com/malliksmrity/weld-defect-detection)
+YOLOv8 computer vision system for automated weld quality inspection. Detects porosity, cracks, undercut and spatter in real time.
+🔗 [Live Demo](https://weld-defect-detection-xyeclcnf3j3vmh2vjezujx.streamlit.app/)
+
+---
   
 ## 🛠️ Tech Stack
 
