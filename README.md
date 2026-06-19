@@ -28,7 +28,7 @@ Interdisciplinary engineer bridging mechanical systems and AI. I turn complex en
 - 🏭 Interned at **Thermax Ltd** & **Kirloskar Pneumatic**
 - 📄 Published & presented at **RDME-2025** national conference
 - 🌍 Based in **Berlin, Germany** | Open to Werkstudent & junior roles
-- 💬 English · Hindi · German (A2-B1)
+- 💬 English · Hindi · German (A2-Improving)
 
 ---
 
