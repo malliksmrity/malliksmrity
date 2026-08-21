@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Smrity Mallik 👋</h1>
+<h1 align="center">Hi, I'm Smrity Mallik </h1>
 
 <p align="center">
   <b>Industrial AI Engineer · MSc AI & Data Science @ Gisma Berlin</b><br>
@@ -19,22 +19,22 @@
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
 Interdisciplinary engineer bridging mechanical systems and AI. I turn complex engineering data into clear, actionable insights using data science, machine learning, and digital tools.
 
-- 🎓 MSc AI, Data Science & Digital Business — **Gisma University of Applied Sciences**, Berlin (2025–2027)
-- 🔧 BE Mechanical Engineering — **Savitribai Phule Pune University** (2021–2025)
-- 🏭 Interned at **Thermax Ltd** & **Kirloskar Pneumatic**
-- 📄 Published & presented at **RDME-2025** national conference
-- 🌍 Based in **Berlin, Germany** | Open to Werkstudent & junior roles
-- 💬 English · Hindi · German (A2-Improving)
+-  MSc AI, Data Science & Digital Business — **Gisma University of Applied Sciences**, Berlin (2025–2027)
+-  BE Mechanical Engineering — **Savitribai Phule Pune University** (2021–2025)
+-  Interned at **Thermax Ltd** & **Kirloskar Pneumatic**
+-  Published & presented at **RDME-2025** national conference
+-  Based in **Berlin, Germany** | Open to Werkstudent & junior roles
+-  English · Hindi · German (A2-Improving)
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🔥 Rice Straw Boiler Performance Dashboard
+###  Rice Straw Boiler Performance Dashboard
 > ML-powered combustion efficiency prediction — based from Thermax.Ltd
 
 - Trained a **Random Forest** model on boiler simulation data across 60–100% load conditions
@@ -45,7 +45,7 @@ Interdisciplinary engineer bridging mechanical systems and AI. I turn complex en
 
 ---
 
-### ⚙️ Predictive Maintenance — RUL Estimation
+###  Predictive Maintenance — RUL Estimation
 > ML model to predict Remaining Useful Life of industrial equipment
 
 - Sensor data analysis for proactive failure prediction in industrial settings
@@ -54,7 +54,7 @@ Interdisciplinary engineer bridging mechanical systems and AI. I turn complex en
 🔗 **[Repo](https://github.com/malliksmrity/predictive-maintenance-rul)**
 
 ---
-### 🔧 [Digital Twin — Pump Health Monitor]
+###  [Digital Twin — Pump Health Monitor]
 (https://digital-twin-pump-simulation.onrender.com)
 Real-time fault detection for centrifugal pumps using physics simulation + ML
 - Physics-based pump curve simulation
@@ -64,7 +64,7 @@ Real-time fault detection for centrifugal pumps using physics simulation + ML
 > `Python` `Random Forest` `Plotly Dash` `PyTorch`
 
 ---
-### 🔧 [Weld Defect Detection](https://github.com/malliksmrity/weld-defect-detection)
+###  [Weld Defect Detection](https://github.com/malliksmrity/weld-defect-detection)
 YOLOv8 computer vision system for automated weld quality inspection. Detects porosity, cracks, undercut and spatter in real time.
 Automated weld quality inspection using YOLOv8 computer vision. 
 Detects porosity, cracks, undercut, and spatter in weld seam images 
@@ -76,17 +76,15 @@ Tech: YOLOv8 · PyTorch · Streamlit · ONNX · Python
 
 ---
   
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages & Scripting**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
 **ML & Data Science**
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
@@ -106,18 +104,18 @@ Tech: YOLOv8 · PyTorch · Streamlit · ONNX · Python
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
-- 🏅 **Microsoft Azure AI Essentials** — Microsoft & LinkedIn
-- 🤖 **Advanced LLMs with Retrieval Augmented Generation (RAG)**
-- 📊 **SQL for Data Analytics**
-- ⚙️ **Six Sigma Foundations**
-- 🔬 **MATLAB Onramp**
+-  **Microsoft Azure AI Essentials** — Microsoft & LinkedIn
+-  **Advanced LLMs with Retrieval Augmented Generation (RAG)**
+-  **SQL for Data Analytics**
+-  **Six Sigma Foundations**
+-  **MATLAB Onramp**
 
 ---
 
 
 <p align="center">
   <i>"Engineering thinking + data intelligence = scalable solutions"</i><br><br>
-  ⭐ Open to collaborate — feel free to reach out!
+   Open to collaborate — feel free to reach out!
 </p>
