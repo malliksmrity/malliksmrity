@@ -1,102 +1,84 @@
-<h1 align="center">Hi, I'm Smrity Mallik </h1>
+<h1 align="center">Hi, I'm Smrity Mallik</h1>
 
 <p align="center">
-  <b>Industrial AI Engineer · MSc AI & Data Science @ Gisma Berlin</b><br>
-  Mech Engg · Published Researcher · Werkstudent Berlin 🇩🇪
+  <b>Mechanical Engineer · MSc AI &amp; Data Science @ Gisma Berlin</b><br>
+  Machine learning, simulation and energy systems · Published researcher · Berlin 🇩🇪
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/smritymallik">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:malliksmrity@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/malliksmrity">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <a href="https://linkedin.com/in/smritymallik"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:malliksmrity@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/malliksmrity"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://huggingface.co/malliksmrity"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
 </p>
 
 ---
 
-##  About Me
+## About me
 
-Interdisciplinary engineer bridging mechanical systems and AI. I turn complex engineering data into clear, actionable insights using data science, machine learning, and digital tools.
+Interdisciplinary engineer bridging mechanical systems and AI. I turn complex engineering data into clear, actionable insights using data science, machine learning and digital tools. I report results honestly: baselines, held-out tests, confidence ranges and the limits of every model.
 
--  MSc AI, Data Science & Digital Business — **Gisma University of Applied Sciences**, Berlin (2025–2027)
--  BE Mechanical Engineering — **Savitribai Phule Pune University** (2021–2025)
--  Interned at **Thermax Ltd** & **Kirloskar Pneumatic**
--  Published & presented at **RDME-2025** national conference
--  Based in **Berlin, Germany** | Open to Werkstudent & junior roles
--  English · Hindi · German (A2-Improving)
-
----
-
-##  Featured Projects
-
-###  Rice Straw Boiler Performance Dashboard
-> ML-powered combustion efficiency prediction — based from Thermax.Ltd
-
-- Trained a **Random Forest** model on boiler simulation data across 60–100% load conditions
-- Built and deployed a **live Streamlit dashboard** with real-time parameter sliders
-- Predicted combustion efficiency: **91–93%** across operating load ranges
-
-🔗 **[Live App](https://analysis-of-rice-straw-boiler-6hp89keqegbvvzddwryd37.streamlit.app/)** · **[Repo](https://github.com/malliksmrity/Analysis-of-Rice-straw-Boiler)**
+- MSc AI, Data Science & Digital Business: **Gisma University of Applied Sciences**, Berlin (2025–2027)
+- BE Mechanical Engineering: **Savitribai Phule Pune University** (2022–2025)
+- Interned at **Thermax Ltd** and **Kirloskar Pneumatic**
+- Published and presented at the **RDME-2025** national conference
+- Based in **Berlin, Germany**
+- English · Hindi · German (A2, improving)
 
 ---
 
-###  Predictive Maintenance — RUL Estimation
-> ML model to predict Remaining Useful Life of industrial equipment
+## Featured projects (each with a live, interactive demo)
 
-- Sensor data analysis for proactive failure prediction in industrial settings
-- Supports data-driven maintenance decision-making
+### TrustRUL: jet-engine remaining life with a trustworthy confidence range
+NASA C-MAPSS turbofan data. GRU and XGBoost with proper baselines, **conformal prediction** (calibrated margin of error), **SHAP**, **MLflow** tracking, a model card, and a 3D maintenance simulation where you decide when to pull engines.
+**[Live demo](https://huggingface.co/spaces/malliksmrity/maintenance-sim-env)** · **[Code](https://github.com/malliksmrity/trustrul-dashboard)**
 
-🔗 **[Repo](https://github.com/malliksmrity/predictive-maintenance-rul)**
+### Rice straw boiler: efficiency model (final-year project, with Thermax)
+Indirect heat-loss model of a biomass boiler, checked against the design workbook (**81.3 % at the design point**), with sensitivity ranking, Monte Carlo uncertainty and a 3D simulator of the plant and its internal flow.
+**[Live demo](https://huggingface.co/spaces/malliksmrity/boiler-sim-env)** · **[Code](https://github.com/malliksmrity/Analysis-of-Rice-straw-Boiler)** · [Earlier Streamlit app](https://analysis-of-rice-straw-boiler-6hp89keqegbvvzddwryd37.streamlit.app/)
 
----
-###  [Digital Twin — Pump Health Monitor]
-(https://digital-twin-pump-simulation.onrender.com)
-Real-time fault detection for centrifugal pumps using physics simulation + ML
-- Physics-based pump curve simulation
-- 3 fault types: bearing wear, cavitation, blockage
-- Random Forest classifier with 99.6% accuracy
-- Live Plotly Dash dashboard
-> `Python` `Random Forest` `Plotly Dash` `PyTorch`
+### Redispatch analysis: cost of German grid congestion
+Cost and volume of redispatch 2022–2026 with bootstrap trend tests (cost per MWh fell about 12 % a year; the volume change is not clear), a Power BI data package, and a grid-congestion simulation graded against the exact linear-programme optimum.
+**[Grid simulator](https://huggingface.co/spaces/malliksmrity/grid-sim-env)** · **[Explorer](https://huggingface.co/spaces/malliksmrity/redispatch-explorer)** · **[Code](https://github.com/malliksmrity/redispatch-analysis)**
 
----
-###  [Weld Defect Detection](https://github.com/malliksmrity/weld-defect-detection)
-YOLOv8 computer vision system for automated weld quality inspection. Detects porosity, cracks, undercut and spatter in real time.
-Automated weld quality inspection using YOLOv8 computer vision. 
-Detects porosity, cracks, undercut, and spatter in weld seam images 
-in real time with confidence scores. Trained on 6,335 weld images. 
-Deployed as a live web app.
+### Energiewende in the Bundestag: German NLP on energy debates
+1,161 speeches (2009–2021): topic modelling with LDA, BERTopic and GBERT, a spaCy entity pipeline, theme trends with session-bootstrap ranges, and an in-browser party model.
+**[Live demo](https://huggingface.co/spaces/malliksmrity/energiewende-speech-analyzer)** · **[Code](https://github.com/malliksmrity/energiewende-bundestag-nlp)**
 
-Tech: YOLOv8 · PyTorch · Streamlit · ONNX · Python
-🔗 [Live Demo](https://weld-defect-detection-xyeclcnf3j3vmh2vjezujx.streamlit.app/)
+### Earlier work
+[Predictive maintenance (Random Forest, Streamlit)](https://github.com/malliksmrity/predictive-maintenance-rul) · [Digital twin pump simulation](https://github.com/malliksmrity/digital-twin-pump-simulation) · [Weld defect detection (YOLOv8)](https://github.com/malliksmrity/weld-defect-detection)
 
 ---
-  
-##  Tech Stack
 
-**Languages & Scripting**
+## Tech stack
+
+**Languages & scripting**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
-**ML & Data Science**
+**ML, NLP & data science**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 
-**Deployment & Cloud**
+**Visualisation, deployment & tooling**
 
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure_AI-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 
-**Engineering Tools**
+**Engineering tools**
 
 ![CATIA](https://img.shields.io/badge/CATIA-005386?style=flat-square&logo=dassaultsystemes&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-EE3124?style=flat-square&logo=autodesk&logoColor=white)
@@ -104,18 +86,17 @@ Tech: YOLOv8 · PyTorch · Streamlit · ONNX · Python
 
 ---
 
-##  Certifications
+## Certifications
 
--  **Microsoft Azure AI Essentials** — Microsoft & LinkedIn
--  **Advanced LLMs with Retrieval Augmented Generation (RAG)**
--  **SQL for Data Analytics**
--  **Six Sigma Foundations**
--  **MATLAB Onramp**
+- **Microsoft Azure AI Essentials** (Microsoft & LinkedIn)
+- **Advanced LLMs with Retrieval Augmented Generation (RAG)**
+- **SQL for Data Analytics**
+- **Six Sigma Foundations**
+- **MATLAB Onramp**
 
 ---
 
-
 <p align="center">
   <i>"Engineering thinking + data intelligence = scalable solutions"</i><br><br>
-   Open to collaborate — feel free to reach out!
+  Open to collaborate. Feel free to reach out!
 </p>
