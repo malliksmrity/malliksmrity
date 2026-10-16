@@ -72,7 +72,6 @@ Cost and volume of redispatch 2022â€“2026 with bootstrap trend tests (cost 
 
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure_AI-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
@@ -100,4 +99,5 @@ Cost and volume of redispatch 2022â€“2026 with bootstrap trend tests (cost 
   <i>"Engineering thinking + data intelligence = scalable solutions"</i><br><br>
   Open to collaborate. Feel free to reach out!
 </p>
+
 
