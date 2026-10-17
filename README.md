@@ -35,7 +35,7 @@ NASA C-MAPSS turbofan data. GRU and XGBoost with proper baselines, **conformal p
 
 ###2.  Rice straw boiler: efficiency model (final-year project, with Thermax)
 Indirect heat-loss model of a biomass boiler, checked against the design workbook (**81.3 % at the design point**), with sensitivity ranking, Monte Carlo uncertainty and a 3D simulator of the plant and its internal flow.
-**[Live demo](https://huggingface.co/spaces/malliksmrity/boiler-sim-env)** · **[Code](https://github.com/malliksmrity/Analysis-of-Rice-straw-Boiler)** Â· [Earlier Streamlit app](https://analysis-of-rice-straw-boiler-6hp89keqegbvvzddwryd37.streamlit.app/)
+**[Live demo](https://huggingface.co/spaces/malliksmrity/boiler-sim-env)** · **[Code](https://github.com/malliksmrity/Analysis-of-Rice-straw-Boiler)** · [Earlier Streamlit app](https://analysis-of-rice-straw-boiler-6hp89keqegbvvzddwryd37.streamlit.app/)
 
 ###3. Redispatch analysis: cost of German grid congestion
 Cost and volume of redispatch 2022€“2026 with bootstrap trend tests (cost per MWh fell about 12 % a year; the volume change is not clear), a Power BI data package, and a grid-congestion simulation graded against the exact linear-programme optimum.
