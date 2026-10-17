@@ -29,19 +29,19 @@ Interdisciplinary engineer bridging mechanical systems and AI. I turn complex en
 
 ## Featured projects (each with a live, interactive demo)
 
-###1. TrustRUL: jet-engine remaining life with a trustworthy confidence range
+### 1. TrustRUL: jet-engine remaining life with a trustworthy confidence range
 NASA C-MAPSS turbofan data. GRU and XGBoost with proper baselines, **conformal prediction** (calibrated margin of error), **SHAP**, **MLflow** tracking, a model card, and a 3D maintenance simulation where you decide when to pull engines.
 **[Live demo](https://huggingface.co/spaces/malliksmrity/maintenance-sim-env)** · **[Code](https://github.com/malliksmrity/trustrul-dashboard)**
 
-###2.  Rice straw boiler: efficiency model (final-year project, with Thermax)
+### 2.  Rice straw boiler: efficiency model (final-year project, with Thermax)
 Indirect heat-loss model of a biomass boiler, validated against the design workbook (**81.3% at the design point**), with sensitivity ranking, Monte Carlo uncertainty, and a 3D simulator of the plant and its internal flow.
 **[Live demo](https://huggingface.co/spaces/malliksmrity/boiler-sim-env)** · **[Code](https://github.com/malliksmrity/Analysis-of-Rice-straw-Boiler)** 
 
-###3. Redispatch analysis: cost of German grid congestion
+### 3. Redispatch analysis: cost of German grid congestion
 Cost and volume of redispatch 2022€- 2026 with bootstrap trend tests (cost per MWh fell about 12 % a year; the volume change is not clear), a Power BI data package, and a grid-congestion simulation graded against the exact linear-programme optimum.
 **[Grid simulator](https://huggingface.co/spaces/malliksmrity/grid-sim-env)** · **[Code](https://github.com/malliksmrity/redispatch-analysis)**
 
-###4. Energiewende in the Bundestag: German NLP on energy debates
+### 4. Energiewende in the Bundestag: German NLP on energy debates
 1,161 speeches (2009€- 2021): topic modelling with LDA, BERTopic and GBERT, a spaCy entity pipeline, theme trends with session-bootstrap ranges, and an in-browser party model.
 **[Live demo](https://huggingface.co/spaces/malliksmrity/energiewende-speech-analyzer)** · **[Code](https://github.com/malliksmrity/energiewende-bundestag-nlp)**
 
