@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Mechanical Engineer · MSc AI &amp; Data Science @ Gisma Berlin</b><br>
-  Machine learning, simulation and energy systems · Published researcher · Berlin ðŸ‡©ðŸ‡ª
+  Machine learning, simulation and energy systems · Published researcher · Berlin 
 </p>
 
 <p align="center">
@@ -16,10 +16,10 @@
 
 ## About me
 
-Interdisciplinary engineer bridging mechanical systems and AI. I turn complex engineering data into clear, actionable insights using data science, machine learning, and digital tools. I report results honestly: baselines, held-out tests, confidence ranges, and the limits of every model.
+Interdisciplinary engineer bridging mechanical systems and AI. I turn complex engineering data into clear, actionable insights using data science, machine learning, and digital tools. I report results honestly: baselines, held-out tests, confidence ranges, and each model's limits.
 
-- MSc AI, Data Science & Digital Business: **Gisma University of Applied Sciences**, Berlin (2025â€“2027)
-- BE Mechanical Engineering: **Savitribai Phule Pune University** (2022â€“2025)
+- MSc AI, Data Science & Digital Business: **Gisma University of Applied Sciences**, Berlin (2025- 2027) with MSc International Business Management, **Kingston University, London**
+- BE Mechanical Engineering: **Savitribai Phule Pune University** (2022- 2025)
 - Interned at **Thermax Ltd** and **Kirloskar Pneumatic**
 - Published and presented at the **RDME-2025** national conference
 - Based in **Berlin, Germany**
@@ -34,15 +34,15 @@ NASA C-MAPSS turbofan data. GRU and XGBoost with proper baselines, **conformal p
 **[Live demo](https://huggingface.co/spaces/malliksmrity/maintenance-sim-env)** · **[Code](https://github.com/malliksmrity/trustrul-dashboard)**
 
 ###2.  Rice straw boiler: efficiency model (final-year project, with Thermax)
-Indirect heat-loss model of a biomass boiler, checked against the design workbook (**81.3 % at the design point**), with sensitivity ranking, Monte Carlo uncertainty and a 3D simulator of the plant and its internal flow.
-**[Live demo](https://huggingface.co/spaces/malliksmrity/boiler-sim-env)** · **[Code](https://github.com/malliksmrity/Analysis-of-Rice-straw-Boiler)** · [Earlier Streamlit app](https://analysis-of-rice-straw-boiler-6hp89keqegbvvzddwryd37.streamlit.app/)
+Indirect heat-loss model of a biomass boiler, validated against the design workbook (**81.3% at the design point**), with sensitivity ranking, Monte Carlo uncertainty, and a 3D simulator of the plant and its internal flow.
+**[Live demo](https://huggingface.co/spaces/malliksmrity/boiler-sim-env)** · **[Code](https://github.com/malliksmrity/Analysis-of-Rice-straw-Boiler)** 
 
 ###3. Redispatch analysis: cost of German grid congestion
-Cost and volume of redispatch 2022€“2026 with bootstrap trend tests (cost per MWh fell about 12 % a year; the volume change is not clear), a Power BI data package, and a grid-congestion simulation graded against the exact linear-programme optimum.
-**[Grid simulator](https://huggingface.co/spaces/malliksmrity/grid-sim-env)** · **[Explorer](https://huggingface.co/spaces/malliksmrity/redispatch-explorer)** · **[Code](https://github.com/malliksmrity/redispatch-analysis)**
+Cost and volume of redispatch 2022€- 2026 with bootstrap trend tests (cost per MWh fell about 12 % a year; the volume change is not clear), a Power BI data package, and a grid-congestion simulation graded against the exact linear-programme optimum.
+**[Grid simulator](https://huggingface.co/spaces/malliksmrity/grid-sim-env)** · **[Code](https://github.com/malliksmrity/redispatch-analysis)**
 
 ###4. Energiewende in the Bundestag: German NLP on energy debates
-1,161 speeches (2009€“2021): topic modelling with LDA, BERTopic and GBERT, a spaCy entity pipeline, theme trends with session-bootstrap ranges, and an in-browser party model.
+1,161 speeches (2009€- 2021): topic modelling with LDA, BERTopic and GBERT, a spaCy entity pipeline, theme trends with session-bootstrap ranges, and an in-browser party model.
 **[Live demo](https://huggingface.co/spaces/malliksmrity/energiewende-speech-analyzer)** · **[Code](https://github.com/malliksmrity/energiewende-bundestag-nlp)**
 
 ### Earlier work
